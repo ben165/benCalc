@@ -3,7 +3,7 @@
 ![no text](IMG/demo.png "no title")
 
 ## Description
-Shows Bens working time in minutes and seconds. Written is simply Java.
+Shows Bens working time in minutes and hours. Written is simply Java.
 
 ## Install
 
